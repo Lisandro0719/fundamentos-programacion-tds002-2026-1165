@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\itla\\01-HolaMundo\\01-HolaMundo\\01-HolaMundo.csproj": {}
+    "C:\\Users\\Lili\\fundamentos-programacion-tds002-2026-1165\\01-HolaMundo\\01-HolaMundo.csproj": {}
   },
   "projects": {
-    "D:\\itla\\01-HolaMundo\\01-HolaMundo\\01-HolaMundo.csproj": {
+    "C:\\Users\\Lili\\fundamentos-programacion-tds002-2026-1165\\01-HolaMundo\\01-HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\itla\\01-HolaMundo\\01-HolaMundo\\01-HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\Lili\\fundamentos-programacion-tds002-2026-1165\\01-HolaMundo\\01-HolaMundo.csproj",
         "projectName": "01-HolaMundo",
-        "projectPath": "D:\\itla\\01-HolaMundo\\01-HolaMundo\\01-HolaMundo.csproj",
-        "packagesPath": "C:\\Users\\lisan\\.nuget\\packages\\",
-        "outputPath": "D:\\itla\\01-HolaMundo\\01-HolaMundo\\obj\\",
+        "projectPath": "C:\\Users\\Lili\\fundamentos-programacion-tds002-2026-1165\\01-HolaMundo\\01-HolaMundo.csproj",
+        "packagesPath": "C:\\Users\\Lili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lili\\fundamentos-programacion-tds002-2026-1165\\01-HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lisan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lili\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
