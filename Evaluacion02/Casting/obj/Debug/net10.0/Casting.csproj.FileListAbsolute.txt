@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\bin\Debug\net10.0\Casting.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\bin\Debug\net10.0\Casting.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\bin\Debug\net10.0\Casting.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\bin\Debug\net10.0\Casting.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\bin\Debug\net10.0\Casting.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\refint\Casting.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\Casting.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\Casting\obj\Debug\net10.0\ref\Casting.dll
