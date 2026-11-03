@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\refint\FichaPersonal.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion02\FichaPersonal\obj\Debug\net10.0\ref\FichaPersonal.dll
