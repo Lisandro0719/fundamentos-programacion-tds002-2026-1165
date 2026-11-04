@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\bin\Debug\net10.0\Nomina.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\bin\Debug\net10.0\Nomina.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\bin\Debug\net10.0\Nomina.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\bin\Debug\net10.0\Nomina.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\bin\Debug\net10.0\Nomina.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\refint\Nomina.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\Nomina.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Nomina\obj\Debug\net10.0\ref\Nomina.dll
