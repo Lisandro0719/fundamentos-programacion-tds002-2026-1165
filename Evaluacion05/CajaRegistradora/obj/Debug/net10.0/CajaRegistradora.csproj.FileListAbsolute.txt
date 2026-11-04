@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\bin\Debug\net10.0\CajaRegistradora.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\bin\Debug\net10.0\CajaRegistradora.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\bin\Debug\net10.0\CajaRegistradora.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\bin\Debug\net10.0\CajaRegistradora.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\bin\Debug\net10.0\CajaRegistradora.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\refint\CajaRegistradora.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\CajaRegistradora.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\CajaRegistradora\obj\Debug\net10.0\ref\CajaRegistradora.dll
