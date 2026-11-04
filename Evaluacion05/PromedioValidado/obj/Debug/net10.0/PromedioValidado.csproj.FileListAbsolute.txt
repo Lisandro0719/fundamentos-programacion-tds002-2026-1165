@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\bin\Debug\net10.0\PromedioValidado.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\bin\Debug\net10.0\PromedioValidado.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\bin\Debug\net10.0\PromedioValidado.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\bin\Debug\net10.0\PromedioValidado.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\bin\Debug\net10.0\PromedioValidado.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\refint\PromedioValidado.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\PromedioValidado.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\PromedioValidado\obj\Debug\net10.0\ref\PromedioValidado.dll
