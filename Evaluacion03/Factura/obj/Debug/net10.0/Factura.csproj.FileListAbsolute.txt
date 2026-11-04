@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\bin\Debug\net10.0\Factura.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\bin\Debug\net10.0\Factura.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\bin\Debug\net10.0\Factura.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\bin\Debug\net10.0\Factura.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\bin\Debug\net10.0\Factura.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\refint\Factura.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\Factura.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion03\Factura\obj\Debug\net10.0\ref\Factura.dll
