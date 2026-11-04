@@ -1,0 +1,15 @@
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\bin\Debug\net10.0\AdivinaNumero.exe
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\bin\Debug\net10.0\AdivinaNumero.deps.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\bin\Debug\net10.0\AdivinaNumero.runtimeconfig.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\bin\Debug\net10.0\AdivinaNumero.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\bin\Debug\net10.0\AdivinaNumero.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.AssemblyInfoInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.AssemblyInfo.cs
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.sourcelink.json
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\refint\AdivinaNumero.dll
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.pdb
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\AdivinaNumero.genruntimeconfig.cache
+C:\Users\Lili\fundamentos-programacion-tds002-2026-1165\Evaluacion05\AdivinaNumero\obj\Debug\net10.0\ref\AdivinaNumero.dll
